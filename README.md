@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=vaishnavi-21-10&theme=dark&hide_border=true" />
+<img src="![](https://streak-stats.demolab.com?user=vaishnavi-21-10&theme=tokyonight&hide_border=true)" />
 
 <br><br>
 
@@ -172,4 +172,4 @@ Coding • Technology • Innovation • Problem Solving • Software Developmen
 
 ## 🔥 Quote
 
-“Success comes from consistency and continuous learning.”
+“Turning ideas into innovation through code.”
