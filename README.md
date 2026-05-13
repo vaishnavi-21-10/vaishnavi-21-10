@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C2FF&center=true&vCenter=true&width=940&lines=Hey+there!+👋;I'm+Vaishu+Sheelvant;MCA+Student+%7C+Aspiring+Developer;Passionate+about+Coding+%26+Innovation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C2FF&center=true&vCenter=true&width=940&lines=Hey+there!+👋;I'm+Vaishnavi+Sheelvant;MCA+Student+%7C+Aspiring+Developer;Passionate+about+Coding+%26+Innovation" />
 
 <br><br>
 
@@ -95,8 +95,10 @@ SMVIT College, Bangalore
 2025 - Present
 
 ### Bachelor Degree(B.sc)
-Kantaka arts,Science and commerce college bidar
+Kantaka arts,Science and commerce college, Bidar
 
+### PUC(12th)
+Shaheen pu independent college,Bidar
 ---
 
 ## 📁 Projects
