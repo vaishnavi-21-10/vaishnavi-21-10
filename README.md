@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-21-10&theme=github" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-21-10&theme=tokyo-night" />
 
 <br><br>
 
@@ -34,10 +34,17 @@
 
 ## 🌐 Connect With Me
 
-<a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/vaishu2126"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:vaishnavisheelvant68@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/vaishnavi-21-10">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <br><br>
 
 ## 👨‍💻 About Me
@@ -59,6 +66,7 @@ Interested in building real-world applications and solving practical problems us
 
 📍 Bangalore, Karnataka, India  
 📧 vaishnavisheelvant68@gmail.com
+
 🔗 GitHub: https://github.com/vaishnavi-21-10/vaishnavi-21-10.git
 
 ---
