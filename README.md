@@ -1,12 +1,15 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=220&section=header&text=Vaishnavi%20Sheelvant&fontSize=42&fontColor=ffffff)
 
 # vaishnavi-21-10
+```java
+while(!success){
+    tryAgain();
+}
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C2FF&center=true&vCenter=true&width=940&lines=Hey+there!+👋;I'm+Vaishnavi+Sheelvant;MCA+Student+%7C+Aspiring+Developer;Passionate+about+Coding+%26+Innovation" />
 
-<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
 
 <br><br>
 
