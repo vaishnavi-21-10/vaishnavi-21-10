@@ -148,7 +148,7 @@ To obtain a challenging software developer position where I can use my technical
 - English  
 - Kannada  
 - Hindi
-- telugu
+- Telugu
 ---
 
 ## 💡 Interests
@@ -163,6 +163,7 @@ Coding • Technology • Innovation • Problem Solving • Software Developmen
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-21-10&layout=compact&theme=radical)
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi-21-10&theme=radical)
 ---
 
 ## 🔥 Quote
