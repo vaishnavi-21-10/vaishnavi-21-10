@@ -46,9 +46,7 @@
 
 ## 👨‍💻 About Me
 
-MCA student passionate about software development, Java programming, and web technologies.  
-Interested in building real-world applications and solving practical problems using technology.
-
+Motivated MCA student with a strong passion for software development, Java programming, and modern web technologies. Enthusiastic about designing and developing real-world applications that solve practical challenges efficiently. Continuously learning new skills, improving problem-solving abilities, and exploring innovative technologies to build impactful digital solutions.
 <br><br>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
@@ -117,10 +115,10 @@ Shaheen PU independent college,Bidar
 - Seat booking and cancellation module  
 - User-friendly interface
 
-### ATM Withdrawal System
-- Java-based ATM simulation  
-- PIN verification  
-- Balance checking and withdrawal
+### eco trade system
+- Java-based eco trade
+- trading solar energy
+- sell back to the grid or sell energy to the neighbours
 
 ### Student Management System
 - Add, update, delete student records  
@@ -147,8 +145,7 @@ Shaheen PU independent college,Bidar
 
 ## 🌟 Career Objective
 
-To obtain a challenging software developer position where I can use my technical skills, continue learning, and contribute to organizational growth.
-
+To obtain a challenging Software Developer position in a growth-oriented organization where I can effectively apply my technical skills, programming knowledge, and problem-solving abilities. Eager to continuously learn emerging technologies, enhance my professional expertise, and contribute meaningfully to innovative projects while supporting the overall success and growth of the organization.
 ---
 
 ## 🌐 Languages Known
@@ -181,6 +178,6 @@ Coding • Technology • Innovation • Problem Solving • Software Developmen
 
 <h3 align="center">
 <h3 align="center"> 
-<h3 align="center">🖥️ Thanks For Visiting My Profile 🖥️ </h3>
+
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:ff69b4&height=140&section=footer)
