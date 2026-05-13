@@ -53,7 +53,7 @@ Interested in building real-world applications and solving practical problems us
 
 ---
 
-# 👨‍💻 Vaishu Sheelvant
+# 👨‍💻 Vaishnavi Sheelvant
 
 **MCA Student | Java Developer | Web Learner**
 
@@ -159,9 +159,9 @@ Coding • Technology • Innovation • Problem Solving • Software Developmen
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=vaishu2126&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=vaishnavi-21-10&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishu2126&layout=compact&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-21-10&layout=compact&theme=radical)
 
 ---
 
