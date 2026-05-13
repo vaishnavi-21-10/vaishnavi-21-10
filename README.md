@@ -1,4 +1,4 @@
-# vaishu2126
+# vaishnavi-21-10
 
 <div align="center">
 
@@ -6,15 +6,15 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vaishu2126&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vaishnavi-21-10&label=Profile%20views&color=0e75b6&style=flat" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishu2126&theme=github" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-21-10&theme=github" />
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=vaishu2126&theme=dark&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=vaishnavi-21-10&theme=dark&hide_border=true" />
 
 <br><br>
 
@@ -58,8 +58,8 @@ Interested in building real-world applications and solving practical problems us
 **MCA Student | Java Developer | Web Learner**
 
 📍 Bangalore, Karnataka, India  
-📧 yourmail@gmail.com  
-🔗 GitHub: https://github.com/vaishu2126
+📧 vaishnavisheelvant68@gmail.com
+🔗 GitHub: https://github.com/vaishnavi-21-10/vaishnavi-21-10.git
 
 ---
 
