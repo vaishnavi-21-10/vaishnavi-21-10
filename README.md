@@ -180,6 +180,7 @@ Coding • Technology • Innovation • Problem Solving • Software Developmen
 
 
 <h3 align="center">
-<h3 align="center">💖 Thanks For Visiting My Profile 💖</h3>
+<h3 align="center"> 
+<h3 align="center">🖥️ Thanks For Visiting My Profile 🖥️ </h3>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:ff69b4&height=140&section=footer)
