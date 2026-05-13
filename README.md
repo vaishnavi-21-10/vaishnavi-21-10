@@ -145,7 +145,9 @@ Shaheen PU independent college,Bidar
 
 ## 🌟 Career Objective
 
+
 To obtain a challenging Software Developer position in a growth-oriented organization where I can effectively apply my technical skills, programming knowledge, and problem-solving abilities. Eager to continuously learn emerging technologies, enhance my professional expertise, and contribute meaningfully to innovative projects while supporting the overall success and growth of the organization.
+
 ---
 
 ## 🌐 Languages Known
