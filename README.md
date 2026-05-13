@@ -6,6 +6,8 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00C2FF&center=true&vCenter=true&width=940&lines=Hey+there!+👋;I'm+Vaishnavi+Sheelvant;MCA+Student+%7C+Aspiring+Developer;Passionate+about+Coding+%26+Innovation" />
 
+<img align="right" width="300" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=vaishnavi-21-10&label=Visitors&color=blueviolet&style=for-the-badge" />
@@ -16,7 +18,7 @@
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=vaishnavi-21-10&theme=dark&hide_border=true" />
+<img src="![](https://streak-stats.demolab.com?user=vaishnavi-21-10&theme=tokyonight&hide_border=true)" />
 
 <br><br>
 
