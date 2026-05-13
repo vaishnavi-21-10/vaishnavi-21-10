@@ -34,13 +34,6 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 <br><br>
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/vaishnavi-21-10/vaishnavi-21-10/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
@@ -184,3 +177,6 @@ Coding • Technology • Innovation • Problem Solving • Software Developmen
 ## 🔥 Quote
 
 “Turning ideas into innovation through code.”
+
+---
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c2ff,100:ff69b4&height=140&section=footer)
