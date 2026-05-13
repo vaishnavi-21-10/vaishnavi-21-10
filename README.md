@@ -1,4 +1,5 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:7F00FF&height=220&section=header&text=Vaishnavi%20Sheelvant&fontSize=42&fontColor=ffffff)
+
 # vaishnavi-21-10
 
 <div align="center">
@@ -7,7 +8,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=vaishnavi-21-10&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=vaishnavi-21-10&label=Visitors&color=blueviolet&style=for-the-badge" />
 
 <br><br>
 
@@ -15,7 +16,7 @@
 
 <br><br>
 
-<img src="![](https://streak-stats.demolab.com?user=vaishnavi-21-10&theme=tokyonight&hide_border=true)" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=vaishnavi-21-10&theme=dark&hide_border=true" />
 
 <br><br>
 
