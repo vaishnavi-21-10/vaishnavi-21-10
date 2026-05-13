@@ -34,6 +34,13 @@
 <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
 <br><br>
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/vaishnavi-21-10/vaishnavi-21-10/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
@@ -101,7 +108,8 @@ SMVIT College, Bangalore
 Kantaka arts,Science and commerce college, Bidar
 
 ### PUC(12th)
-Shaheen pu independent college,Bidar
+Shaheen PU independent college,Bidar
+
 ---
 
 ## 📁 Projects
